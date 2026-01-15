@@ -6,7 +6,7 @@ Limpiador de archivos Basura desarrollado por LighterTeam
 
 
 ## Autores:
-- Octavius9908
+- OctaviusDR
 - [@jcp2612-oficial](https://www.github.com/jcp2612-oficial)
 
 
